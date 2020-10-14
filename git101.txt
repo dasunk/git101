@@ -1,2 +1,6 @@
 git init 	- initialise the git
 git status	-show current status of git ripository
+git add git101.txt	-add to git
+git commit -m "added assignment"	-commit msg
+git log --oneline
+gti checkout
